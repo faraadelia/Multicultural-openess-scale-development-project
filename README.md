@@ -1,2 +1,2 @@
-# Multicultural-openess-scale-development-project
+# Multicultural-openness-scale-development-project
 R code 
